@@ -57,8 +57,7 @@ Fungsinya yakni:
      <img width="741" height="547" alt="image" src="https://github.com/user-attachments/assets/cdc4b379-8fb5-48c9-9085-cd91bd6b4f66" />
      
      <img width="741" height="547" alt="image" src="https://github.com/user-attachments/assets/02f31405-fa01-403f-a8b6-b0724320e14a" />
-     
-   - Gunakan `JasperFillManager` & `JasperViewer` untuk memanggil file `.jasper`.  
+    
 
 5. **Uji Coba Program**  
    - Klik tombol Cetak → Laporan muncul otomatis dengan data terbaru dari database.
